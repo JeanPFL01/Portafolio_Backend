@@ -1,0 +1,12 @@
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\bin\Debug\net8.0\Portafolio.Application.DTO.deps.json
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\bin\Debug\net8.0\Portafolio.Application.DTO.dll
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\bin\Debug\net8.0\Portafolio.Application.DTO.pdb
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.AssemblyInfo.cs
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.sourcelink.json
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.dll
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\refint\Portafolio.Application.DTO.dll
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\Portafolio.Application.DTO.pdb
+C:\Users\Jean\Desktop\PORTAFOLIO\BACKEND\Portafolio.Application.DTO\obj\Debug\net8.0\ref\Portafolio.Application.DTO.dll

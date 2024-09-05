@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5t8o/+BWh+tYrbBKFVdx5vM/WDCviqiEEI88l9RAhBM=",
+  "Source": "Portafolio.Service.StoreDB_API",
+  "BasePath": "_content/Portafolio.Service.StoreDB_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

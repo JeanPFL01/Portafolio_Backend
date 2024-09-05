@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Portafolio.Application.DTO\Portafolio.Application.DTO.csproj" />
+    <ProjectReference Include="..\Portafolio.Domain.Entities\Portafolio.Domain.Entities.csproj" />
+    <ProjectReference Include="..\Portafolio.Transversal.Common\Portafolio.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Portafolio.Transversal.Mapper\Portafolio.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>
